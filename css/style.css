@@ -1,0 +1,22 @@
+#moveit {
+    width:500px;
+    height:20px;
+    background:#ddd;
+    position:relative;
+    overflow:hidden;
+}
+
+/*#moveit */
+#box {
+    width:20px;
+    height:20px;
+    background:red;
+    position:absolute;
+    top:0;     left:0;
+    /*transition: 0.5s left ease-in;*/
+}
+
+/*#moveit:hover #box {
+    left:480px;
+}
+*/
